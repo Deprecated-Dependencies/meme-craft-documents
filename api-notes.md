@@ -1,6 +1,6 @@
 # Imgflip API Notes
 
-The full documentation of the [Imgflip API](https://imgflip.com/api) is very light.  Below are a series of Thunderclient requests to show different possible use cases for our needs.
+The full documentation of the [Imgflip API](https://imgflip.com/api) is very light.  Below are a series of API requests to show different possible use cases for our needs.
 
 Some things to note about the API data:
 
