@@ -17,6 +17,7 @@ What is the minimum required for you to present on your demo day?
 * Able to update/delete past memes.
 * Some kind of display or catalogue for memes.
 * Links to share a meme on popular platforms.
+
 STRETCH
 * Special route to allow memery via url requests.
 
@@ -37,5 +38,7 @@ What is the minimum required for you to present on your demo day?
 * Ability to see attractions and points of interest for a given location
 * Profile page with a map/collection display case
 * Sharing links for profile
+
+
 STRETCH
 * Upload photos of locations, location-based personal album.
