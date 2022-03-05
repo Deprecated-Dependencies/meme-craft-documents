@@ -1,3 +1,5 @@
+Micha, Michael, Jeffrey, Harvey, and Brady
+
 # Team Agreement
 
 ## Cooperation Plan
