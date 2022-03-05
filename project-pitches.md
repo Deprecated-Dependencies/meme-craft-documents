@@ -1,3 +1,5 @@
+Micha, Michael, Jeffrey, Harvey, and Brady
+
 # Pitch 1
 
 ## Meme Generator
