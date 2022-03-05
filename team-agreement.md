@@ -5,20 +5,30 @@ Micha, Michael, Jeffrey, Harvey, and Brady
 ## Cooperation Plan
 
 **What are the key strengths of each person on the team?**
+
 Brady - Attention to detail
+
 Jeffrey - Quick learner
+
 Michael - Communication
+
 Harvey - Humor
+
 Micha - code/architecture
 
 **How can you best utilize these strengths in the execution of your project?**
 We'll leverage the balance of skills across the team to effectively delegate tasks and reach expectations.
 
 **In which professional competencies do you each want to develop greater strength?**
+
 Jeffrey - planning skills
+
 Micha - teamwork
+
 Brady - communication
+
 Harvey - teamwork
+
 Michael - organization
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
