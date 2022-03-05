@@ -83,7 +83,7 @@ Slack
 
 **What is your strategy for ensuring everyone’s voice is heard?**
 
-Check in regularly and make sure everyone is up to speed/has provided their thoughts.
+Check in regularly with the person and make sure everyone is up to speed/has provided their thoughts.
 
 **How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**
 
