@@ -6,3 +6,4 @@
 4. [User Stories](user-stories.md)
 5. [Software Requirements](requirements.md)
 6. [Wireframe](meme-craft%20wireframe.jpg)
+7. [Database Schema (included in Wireframe)](meme-craft-schema.jpg)
