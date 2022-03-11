@@ -20,3 +20,7 @@
 ### Domain Model
 
 ![Domain Model](meme-craft%20domain%20model.jpg)
+
+### Props & State Flowchart
+
+![Props & State Flowchart](meme-craft-props-state-flow.jpg)
