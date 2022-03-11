@@ -17,6 +17,6 @@
 
 ![Database Schema (included in Wireframe)](meme-craft-schema.jpg)
 
-### Problem Domain
+### Domain Model
 
-![Problem Domain](meme-craft%20domain%20model.jpg)
+![Domain Model](meme-craft%20domain%20model.jpg)
