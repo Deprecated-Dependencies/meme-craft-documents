@@ -9,10 +9,6 @@
 
 ## Diagrams
 
-### Problem Domain
-
-![Problem Domain](meme-craft%20domain%20model.jpg)
-
 ### Wireframe
 
 ![Wireframe](meme-craft%20wireframe.jpg)
@@ -20,3 +16,7 @@
 ### Schema
 
 ![Database Schema (included in Wireframe)](meme-craft-schema.jpg)
+
+### Problem Domain
+
+![Problem Domain](meme-craft%20domain%20model.jpg)
